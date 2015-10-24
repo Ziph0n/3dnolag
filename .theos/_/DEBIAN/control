@@ -1,0 +1,10 @@
+Package: com.ziph0n.3dnolag
+Name: 3DNoLag
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Tired of the 3D Touch lag?
+Maintainer: Ziph0n
+Author: Ziph0n
+Section: Tweaks
+Version: 1.0-1+debug
+Installed-Size: 356
